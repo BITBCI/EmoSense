@@ -1,4 +1,4 @@
-# Multimodal Physiological Signal Acquisition System - Upper Computer
+# Multimodal Physiological Signal Acquisition System
 
 A PyQt5-based physiological signal acquisition and visualization software that supports real-time display of EEG, PPG, IMU data and cloud-based emotion recognition.
 
