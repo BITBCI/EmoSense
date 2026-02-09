@@ -1,0 +1,15 @@
+# 忽略data和docs文件夹及其内容
+/data/
+/docs/
+# 忽略Python缓存和环境文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+# 忽略VSCode设置
+.vscode/
+# 忽略操作系统文件
+.DS_Store
+Thumbs.db
